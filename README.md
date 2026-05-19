@@ -1,8 +1,7 @@
 <h3 >Welcome to my Github!</h2>
 
-Know more about me:
+know more about me:
 https://dada-liu.github.io/
 
-/n
-
-Embrace the power of time compounding ✨
+<br/>
+embrace the power of time compounding ✨
